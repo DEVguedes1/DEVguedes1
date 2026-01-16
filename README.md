@@ -50,9 +50,8 @@ Sou um desenvolvedor focado em criar soluções que não apenas funcionam, mas q
 
 Se você busca um desenvolvedor que pensa no código como uma ferramenta para alcançar objetivos de negócio, entre em contato:
 
-* **LinkedIn:** [(https://www.linkedin.com/in/nicolas-guedes/)]
-* **E-mail:** [Seu e-mail aqui]
-* **Portfólio:** [Seu site ou link relevante]
+* **LinkedIn:** https://www.linkedin.com/in/nicolas-guedes/
+* **E-mail:** nicolasguedesguedes081@gmail.com
 
 ---
 *"O código é o meio, o resultado é o fim."*
