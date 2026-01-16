@@ -46,15 +46,6 @@ Sou um desenvolvedor focado em criar soluções que não apenas funcionam, mas q
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVguedes1&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVguedes1&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 Se você busca um desenvolvedor que pensa no código como uma ferramenta para alcançar objetivos de negócio, entre em contato:
