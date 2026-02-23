@@ -20,7 +20,7 @@ Sou um desenvolvedor focado em criar soluções que não apenas funcionam, mas q
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Back-end** | Java, Spring Boot, Python (Django/Flask) |
-| **Front-end** | React.js, JavaScript, HTML5, CSS3, Tailwind |
+| **Front-end** | React.js, JavaScript, HTML5, CSS3|
 | **Automação** | Selenium, Scripting Python |
 | **Bancos de Dados** | MySQL, PostgreSQL, Modelagem Relacional |
 | **Ferramentas** | Git, Docker, Metodologias Ágeis |
