@@ -1,4 +1,4 @@
-# Olá, eu sou o Nicolas Guedes! 👋
+# Olá, eu sou Nicolas Guedes! 👋
 
 ### Full Stack Developer | Transformando código em eficiência e resultados de negócio
 
