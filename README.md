@@ -74,8 +74,8 @@ Sou um desenvolvedor focado em criar soluções que não apenas funcionam, mas q
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolasGuedesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGuedesDev&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DEVguedes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVguedes1&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
