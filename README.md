@@ -74,8 +74,9 @@ Sou um desenvolvedor focado em criar soluções que não apenas funcionam, mas q
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DEVguedes1&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DEVguedes1&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVguedes1&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVguedes1&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
 </div>
 
 ---
