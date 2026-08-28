@@ -4,15 +4,15 @@
 
   <!-- Squad Pokémon Animado -->
   <p align="center">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif" alt="Greninja" width="75" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/197.gif" alt="Umbreon" width="65" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" alt="Gengar" width="70" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/197.gif" alt="Charizard" width="70" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/384.gif" alt="Rayquaza" width="90" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/448.gif" alt="Lucario" width="70" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/149.gif" alt="Dragonite" width="75" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" alt="Pikachu" width="60" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/390.gif" alt="Chimchar" width="55" />
   </p>
 
   <p><i>"O código é o meio, o resultado é o fim."</i></p>
