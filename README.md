@@ -6,7 +6,7 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" alt="Gengar" width="70" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" alt="Charizard" width="75" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" alt="Charizard" width="0197" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/448.gif" alt="Lucario" width="70" />
     &nbsp;&nbsp;&nbsp;&nbsp;
