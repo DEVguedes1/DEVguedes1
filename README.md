@@ -1,57 +1,68 @@
-# Olá, eu sou Nicolas Guedes! 👋
+<div align="center">
+  <h1>Olá, eu sou o Nicolas Guedes! 👋</h1>
+  <p><strong>Desenvolvedor Full Stack | Foco em Java, Python & React</strong></p>
 
-### Full Stack Developer | Transformando código em eficiência e resultados de negócio
+  <!-- Pokémon Display Animado (Gengar como exemplo) -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" alt="Pokemon" width="90" />
 
-Sou um desenvolvedor focado em criar soluções que não apenas funcionam, mas que **otimizam processos e escalam operações**. Com experiência em todo o ciclo de vida do software, busco equilibrar uma arquitetura de back-end robusta com interfaces de front-end intuitivas para gerar valor real para o usuário final e para a empresa.
+  <p><i>Transformando lógica em soluções escaláveis, automações e interfaces fluidas.</i></p>
+</div>
 
----
+<br/>
 
-## 🚀 Como posso gerar resultados para sua equipe:
+### ⚡ Sobre Mim
 
-* **Eficiência Operacional:** Desenvolvo automações personalizadas (Python/Selenium) que reduzem tarefas repetitivas, economizando horas de trabalho manual e minimizando erros humanos.
-* **Sistemas Escaláveis:** Construo APIs sólidas em **Java** e **Spring**, garantindo que o sistema suporte o crescimento do volume de dados e usuários sem perda de performance.
-* **Experiência do Usuário (UX):** Utilizo **React** para criar interfaces modernas e responsivas que retêm usuários e facilitam a conversão em plataformas de vendas e gestão.
-* **Decisões Baseadas em Dados:** Tenho domínio em modelagem de bancos de dados relacionais (SQL), garantindo a integridade e a rápida recuperação de informações críticas para o negócio.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Back-end** | Java, Spring Boot, Python (Django/Flask) |
-| **Front-end** | React.js, JavaScript, HTML5, CSS3|
-| **Automação** | Selenium, Scripting Python |
-| **Bancos de Dados** | MySQL, PostgreSQL, Modelagem Relacional |
-| **Ferramentas** | Git, Docker, Metodologias Ágeis |
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **IFPB**
+- 💼 Atuando no desenvolvimento da plataforma e painel administrativo do **Seu Gostoso**
+- 🚀 Experiência na construção de aplicações web completas, CRUDs dinâmicos e landing pages com **React**
+- ⚙️ Foco em desenvolvimento back-end, modelagem de dados e arquitetura com **Java** e **Python**
 
 ---
 
-## 📂 Projetos em Destaque (Foco em Valor)
+### 🛠️ Tecnologias & Ferramentas
 
-### 🥋 Sistema de Gestão de Academias (Jiu-Jitsu)
-* **Problema:** Dificuldade no controle de mensalidades e frequência de alunos.
-* **Solução:** Uma plataforma Full Stack (Java + React) que centraliza a gestão financeira e administrativa.
-* **Resultado:** Redução da inadimplência e melhor organização do fluxo de caixa.
+<div align="center">
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <br/><br/>
 
-### 🍔 Menu Digital para Hamburguerias
-* **Problema:** Lentidão no atendimento via aplicativos de mensagens.
-* **Solução:** Interface em React focada em performance e facilidade de escolha do usuário.
-* **Resultado:** Agilidade no fechamento de pedidos e melhor experiência de compra para o cliente.
+  <!-- Frameworks e Bibliotecas -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  
+  <br/><br/>
 
-### 🤖 Automação de Processos (LinkedIn Bot)
-* **Problema:** Gasto excessivo de tempo em processos repetitivos de busca e aplicação.
-* **Solução:** Bot em Python/Selenium com geração de relatórios automáticos.
-* **Resultado:** Aumento exponencial da produtividade e triagem de dados em larga escala.
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
 ---
 
-## 📫 Vamos conversar?
+### 📊 Estatísticas do GitHub
 
-Se você busca um desenvolvedor que pensa no código como uma ferramenta para alcançar objetivos de negócio, entre em contato:
-
-* **LinkedIn:** https://www.linkedin.com/in/nicolas-guedes/
-* **E-mail:** nicolasguedesguedes081@gmail.com
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
-*"O código é o meio, o resultado é o fim."*
+
+### 📬 Onde me encontrar
+
+<div align="center">
+  <a href="www.linkedin.com/in/nicolas-guedes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:nicolasguedesguedes081@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
