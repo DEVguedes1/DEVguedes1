@@ -74,9 +74,9 @@ Sou um desenvolvedor focado em criar soluções que não apenas funcionam, mas q
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEVguedes1&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=DEVguedes1&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Stats" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DEVguedes1&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
-
 ---
 
 ### 📫 Vamos conversar?
